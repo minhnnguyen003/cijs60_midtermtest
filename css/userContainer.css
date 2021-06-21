@@ -17,6 +17,7 @@
 
 .user-container .gender {
     color: #FFFFFF;
+    background-color: #007BFF;
 }
 
 .user-container .country {
@@ -32,3 +33,4 @@
 .user-container .favourites .fav {
     background: #FFC107;
 }
+
